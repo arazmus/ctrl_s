@@ -1,9 +1,9 @@
-ctrl_s
-======
 
-Ctrl+s
+Ctrl+s is an Expression Engine 2 extension
 
-This extension adds the Ctrl+S shortcut to every Control Panel Page. Hitting the Ctrl+S key combo does exactly what most applications do - saves! In this case is actually hits the update/save button - saving you time.
+This extension adds the Ctrl+S shortcut to every Control Panel Page. 
+Hitting the Ctrl+S key combo does exactly what most applications do - saves! 
+In this case is actually hits the update/save button - saving you time.
 
 Tested in Chrome, IE10, Safari and Firefox. 
 
