@@ -22,7 +22,8 @@ class Ctrl_s_ext {
     function __construct()
     {
         // -------------------------------------------
-        //  Make a local reference to the EE super object
+        //  Make a local reference to the 
+        //  EE super object
         // -------------------------------------------
 
         $this->EE =& get_instance();
